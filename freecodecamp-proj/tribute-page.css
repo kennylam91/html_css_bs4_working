@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+}
+
+#main {
+    background-color: #eee;
+    margin: 30px 20px;
+    padding: 40px 10px;
+}
+
+#img-div {
+    padding: 10px 10px;
+    background-color: white;
+}
